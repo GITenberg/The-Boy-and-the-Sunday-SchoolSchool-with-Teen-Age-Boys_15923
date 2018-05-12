@@ -1,0 +1,30 @@
+_repo: The-Boy-and-the-Sunday-SchoolSchool-with-Teen-Age-Boys_15923
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alexander, John L.
+    birthdate: 1878
+    deathdate: 1932
+    gutenberg_agent_id: '6377'
+    url: http://www.gutenberg.org/2009/agents/6377
+description: ''
+gutenberg_issued: '2005-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15923'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Sunday schools'
+title: 'The Boy and the Sunday School
+
+  A Manual of Principle and Method for the Work of the Sunday
+
+  School with Teen Age Boys'
+url: http://www.gutenberg.org/ebooks/15923
