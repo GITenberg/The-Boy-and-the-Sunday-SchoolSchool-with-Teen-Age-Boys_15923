@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6377'
     url: http://www.gutenberg.org/2009/agents/6377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15923#The-Boy-and-the-Sunday-SchoolSchool-with-Teen-Age-Boys
 gutenberg_issued: '2005-05-28'
 gutenberg_type: Text
 identifiers:
